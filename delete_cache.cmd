@@ -20,3 +20,4 @@ for /D /R %%G in (*) do (
 		rmdir /S /Q "%%~fG"
 	)
 )
+pause
