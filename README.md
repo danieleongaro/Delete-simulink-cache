@@ -8,7 +8,7 @@ You can also run it in a terminal with `./delete_cache`. In some cases it will t
 This works only on Windows.
 
 ## Examples
-The folders "Test 1" and "Test 1 - Copy" are the examples: "Test 1" is the original folder structure and "Test 1 - Copy" is the folder after the script did its job.
+The folders "Test 1" and "Test 1 - Copia" are the examples: "Test 1" is the original folder structure and "Test 1 - Copia" is the folder after the script did its job.
 
 ## Sources:
 https://ss64.com/nt/for_d.html
